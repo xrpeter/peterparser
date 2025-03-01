@@ -4,3 +4,5 @@
 2. Script that validates accountHash from account data
 
 
+Example: Ledger 32571
+
